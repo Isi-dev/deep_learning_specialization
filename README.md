@@ -1,5 +1,9 @@
 # Deep Learning Specialization
 
+What can I possibly say about this specialization. Andrew NG and his team have delivered an astonishing program on most aspects of Deep Learning. Packed with over 25 notebooks, this course was a pleasure and challenge to take. I wish that all learning out there would be so much fun. Well done!
+
+Check out the course details __[here](https://www.coursera.org/specializations/deep-learning)__.
+
 ## About the Specialization
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
 
